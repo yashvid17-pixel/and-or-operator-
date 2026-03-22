@@ -6,3 +6,5 @@ elif number_1 >90 or number_2<90:
     print("or operator sucess")
 else:
     print("no sucess")
+x=True
+print (not x)
